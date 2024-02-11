@@ -1,4 +1,4 @@
-# JIM
+# PLOS ONE
 
 This is the document for DOE of the small numerical experiment conducted by Minitab in Sini's manuscript submitted to JIM.
 
